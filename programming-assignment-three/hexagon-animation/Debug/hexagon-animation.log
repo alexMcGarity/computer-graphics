@@ -1,0 +1,3 @@
+﻿  hexagon-animation.cpp
+C:\Users\amcga\projects\computer-graphics\programming-assignment-three\hexagon-animation\hexagon-animation.cpp(125,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  hexagon-animation.vcxproj -> C:\Users\amcga\projects\computer-graphics\programming-assignment-three\Debug\hexagon-animation.exe

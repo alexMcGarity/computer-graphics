@@ -1,0 +1,1 @@
+section of a 2-D scene that we want to display on the monitor
